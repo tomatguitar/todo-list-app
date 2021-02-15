@@ -1,3 +1,7 @@
+# ABOUT
+
+This is a simple ToDoList App. Actually it is my first app made with React.js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
